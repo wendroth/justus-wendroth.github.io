@@ -1,3 +1,3 @@
-# justus-wendroth.github.io
+# Justus Wendroth
 
 Hello World!
